@@ -1,0 +1,18 @@
+v1.0
+----
+
+Simplified Point of Sales Application to store debit / credit information:
+
+a.	Transaction screen
+		- Material payment (Debit use)
+		- Customer payment (Credit use)
+
+b.	History screen
+		- Display all available transactions
+		- Filter by specific date / month
+		- Calculate the account balance based on transactions
+
+The application do not need any external hardware for database purpose.
+It writes its own database on to your local PC using SQL Compact Edition database.
+
+Tested on SQL CE 4.0
