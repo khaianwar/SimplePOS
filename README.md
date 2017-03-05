@@ -5,7 +5,7 @@ VB.NET - Simplified Point of Sales Application
 Simple Point of Sales ( Windows Form Application )
 
 - VB.NET
-- SQL Database
+- SQL CE Database (Store locally)
 
 
 Please see Changelog file for overall functions/changes.
